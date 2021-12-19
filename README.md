@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SoaresRoberto
-- 👀 I’m interested in Python, machine learning, AI, new technologies.
+- 👀 I’m interested in Python, machine learning, AI, and new technologies.
 - 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... Hmmm, maybe later on.
 - 📫 How to reach me soaresrobertoj.@gmail.com
 
 <!---
